@@ -2,7 +2,7 @@
 
 int main() {
     double distance = 12.345;
-    printf("Distance: %d km\n", distance);
+    printf("Distance: %.3lfkm\n", distance);
     return 0;
 }
 
